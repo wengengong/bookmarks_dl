@@ -9,9 +9,10 @@ You will need the follwing to make the program work
 
 ## How to use
 1. Download the bookmarks you want to download
-2. Open the program and point it to the bookmarks file
-3. select the folder you want to download to
-4. click download
+2. Cone the repo in Visual Studio
+3. Start the program and point it to the bookmarks file
+4. select the folder you want to download to
+5. click download
 
 ## issues 
 **Lots**
